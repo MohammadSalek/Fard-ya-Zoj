@@ -17,6 +17,8 @@ cd to the project dir:
 
 `cd Fard-ya-Zoj/`
 
+Optimally, you may create a virtual environment and enable it. (guidance not included here)
+
 Install requirements:
 
 `pip install -r requirements.txt`
