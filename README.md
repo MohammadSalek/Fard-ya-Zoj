@@ -1,7 +1,7 @@
 # Fard ya Zoj
 For those desperate Iranian students in trouble who wonder if this week is Fard or Zoj!
 
-This project is configured with start date of *University of Tabriz - 1399 Payiz* semester. If you're studying in other universities or you're using this project in the future, please consider reading [this](#Other-universities-and-dates).
+This project is configured with the start date of *University of Tabriz - 1399 Payiz* semester. If you're studying in other universities or you're using this project in the future, please consider reading [this](#Other-universities-and-dates).
 
 ### Prerequisites
 
