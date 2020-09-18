@@ -13,7 +13,7 @@ Clone the project:
 
 `git clone https://github.com/MohammadSalek/Fard-ya-Zoj.git`
 
-cd to the prject dir:
+cd to the project dir:
 
 `cd Fard-ya-Zoj/`
 
@@ -32,4 +32,4 @@ Run fard_ya_zoj.py:
 Only if running the module directly:
 - Change the `start_date` variable under the `__main__` section for a different university start date.
 
-(by not running the module directly you are asked to provide a start date)
+(by not running the module directly you are asked to provide a start date.)
